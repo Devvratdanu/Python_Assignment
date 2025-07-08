@@ -18,6 +18,15 @@ Task 2: This code calculates the sum of integers from 1 to 50 using a loop.
 
 Assignment 3
 
+Task 1: This code defines a function to calculate the factorial of a number using recursion.
+
+Task 2: This code prompts the user for a number and calculates its square root, logarithm, and sine using the math module.
+
+Assignment 4
+
+
+
+
 
 
 
