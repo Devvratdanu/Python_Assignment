@@ -12,3 +12,12 @@ Task 2:  This code prompts the user for their first and last name, then prints a
 
 Assignment 2
 
+Task 1: This code prompts the user for a number and checks if it is even or odd.
+
+Task 2: This code calculates the sum of integers from 1 to 50 using a loop.
+
+Assignment 3
+
+
+
+
