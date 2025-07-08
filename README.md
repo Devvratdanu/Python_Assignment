@@ -23,6 +23,14 @@ Task 1: This code defines a function to calculate the factorial of a number usin
 Task 2: This code prompts the user for a number and calculates its square root, logarithm, and sine using the math module.
 
 Assignment 4
+Task 1: This program read the content of the file line by line and if file does not exist it will give you an error which is handled by try and except block this program is and exmple of exception handling and error in FileNotFound error
+
+Task 2: This program creates a file if not exist and let u append at end of the file 
+
+Assignment 5
+
+
+
 
 
 
