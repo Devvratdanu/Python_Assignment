@@ -29,6 +29,10 @@ Task 2: This program creates a file if not exist and let u append at end of the 
 
 Assignment 5
 
+Task 1: This program takes Student Name as an input from the user and then Display the corresponding Marks of the student and Diplay student not found if student does not exit in the Predefined distonary
+
+Task 2: This program takes first five numbers from the predefind  list and then reverse those first five numbers using a list slicing.
+
 
 
 
